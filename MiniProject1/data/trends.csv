@@ -1,0 +1,103 @@
+post_id,title,score,num_comments,author,collected_at,category,engagement,is_popular
+49811065,Transit rewards,129,130,raybb,2026-09-23 14:20:43.453338,World News,1.0,False
+49801324,OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005,653,386,sohkamyung,2026-09-23 14:20:44.127693,Technology,0.5902140672782875,True
+49811429,Data-only attacks are easier than you think (2024),48,14,segfaultbuserr,2026-09-23 14:20:44.793672,Technology,0.2857142857142857,False
+49805278,'We hacked the FBI:' Hackers say they have data on all FBI employees,591,419,spenvo,2026-09-23 14:20:45.450552,Technology,0.7077702702702703,True
+49800513,Show HN: Npunlock – Run custom C kernels for Intel NPUs,18,3,hsfzxjy,2026-09-23 14:20:46.197743,Entertainment,0.15789473684210525,False
+49806430,Pentagon says overreliance on AI contributed to missile strike on Iran school,629,318,devonnull,2026-09-23 14:20:53.893170,Technology,0.5047619047619047,True
+49812023,How often do you think about the 1893 World's Fair?,8,1,bryanrasmussen,2026-09-23 14:20:55.771660,Technology,0.1111111111111111,False
+49800574,"Show HN: JevBench, a reproducible benchmark for typed decision models",102,25,florianstandhar,2026-09-23 14:20:59.746316,Entertainment,0.24271844660194175,False
+49802161,OpenAI is well positioned to fast-follow Jev,292,208,JohnBerryman,2026-09-23 14:21:00.368418,Technology,0.7098976109215017,True
+49794844,"Delta: Highly available, strongly consistent storage using chain replication (2022)",25,1,grep_it,2026-09-23 14:21:01.658607,Technology,0.038461538461538464,False
+49800566,Show HN: Training a model to identify AI web content from structure alone,59,14,jochenmadler,2026-09-23 14:21:06.477726,Technology,0.23333333333333334,False
+49795260,Did OpenAI solve the wrong Navier-Stokes problem?,107,57,tomjakubowski,2026-09-23 14:21:07.909334,Technology,0.5277777777777778,False
+49801329,Show HN: Drop – A rootless Linux sandbox with gVisor support,170,57,mixedbit,2026-09-23 14:21:09.241735,Entertainment,0.3333333333333333,True
+49803085,Writing Rust code that's fast by asking agents to make the code faster,99,50,mooreds,2026-09-23 14:21:11.462643,Technology,0.5,False
+49794193,Solitaire Alone Together,140,29,eieio,2026-09-23 14:21:12.824046,Technology,0.20567375886524822,False
+49808109,The UV index is not the warm sensation of sunlight on bare skin,78,68,evakhoury,2026-09-23 14:21:13.488033,World News,0.8607594936708861,False
+49803683,"Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",37,3,ZaharaHussain,2026-09-23 14:21:19.688672,Technology,0.07894736842105263,False
+49811802,Irish data protection watchdog fines Google €403M over GDPR breaches,12,0,1vuio0pswjnm7,2026-09-23 14:21:23.445459,Technology,0.0,False
+49797982,I said no and Apple said yes,823,668,thatslast,2026-09-23 14:21:26.049066,Technology,0.8106796116504854,True
+49780175,What It's Like to Work in One of America's Data Centers,73,68,JumpCrisscross,2026-09-23 14:21:27.334225,Technology,0.918918918918919,False
+49792342,Transformers Explained Visually,611,88,aray07,2026-09-23 14:21:28.829629,Technology,0.1437908496732026,True
+49802789,Show HN: InstinctFlash – High-Performance Serving Runtime for Robotics Models,24,3,guanming0717,2026-09-23 14:21:31.555511,Entertainment,0.12,False
+49811734,Helium balloon lifts up to two tons of building material over Tibet's mountains,9,0,ksec,2026-09-23 14:21:32.850766,Technology,0.0,False
+49794736,Looking forward to Git 2.56 – and 3.0,192,112,chmaynard,2026-09-23 14:21:35.455886,World News,0.5803108808290155,True
+49788220,A study of sequence weighting at scale,12,1,pranitha_m,2026-09-23 14:21:36.116907,Science,0.07692307692307693,False
+49809806,"The new CC, an AI agent built for families",45,55,grigy,2026-09-23 14:21:39.657871,Technology,1.1956521739130435,False
+49810083,"I'm sick of Claudisms, & what will happen next in AI-boosted software dev",8,4,rizsyed1,2026-09-23 14:21:40.286388,Technology,0.4444444444444444,False
+49747070,How to Write with an LLM,756,410,joeriddles,2026-09-23 14:21:40.984611,Technology,0.5416116248348745,True
+49777121,Video games inspire great UX (2019),41,3,andsoitis,2026-09-23 14:21:43.623986,Sports,0.07142857142857142,False
+49792067,"AI coding has made CI a bottleneck, so we reworked ours to keep up",311,388,julian_digital,2026-09-23 14:21:44.900217,Technology,1.2435897435897436,True
+49783133,Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM,276,75,volotat,2026-09-23 14:21:47.085145,Technology,0.27075812274368233,True
+49811556,Big Banks Say They're Uneasy About People Shopping via AI Agents,9,2,thm,2026-09-23 14:21:50.260878,Technology,0.2,False
+49775104,The LLMentalist Effect (2023),230,307,jalev,2026-09-23 14:21:50.902411,Technology,1.329004329004329,True
+49802776,"Show HN: OpenMCP – An open, code-first fork of the Model Context Protocol",8,1,enclawed,2026-09-23 14:21:51.537184,Technology,0.1111111111111111,False
+49791378,Why does mathmain need an encrypted loader?,135,40,abhisek,2026-09-23 14:21:54.396594,Technology,0.29411764705882354,False
+49764791,AI-generated posters don’t have to be horrible,1877,951,ereiamjh,2026-09-23 14:21:56.357929,Technology,0.5063897763578274,True
+49804217,Show HN: graf (1000x faster graphify in Rust),10,3,ripped_britches,2026-09-23 14:21:59.827666,Entertainment,0.2727272727272727,False
+49809345,U.S. Government seizes 54-pound Martian meteorite sold at auction last year,19,8,bookofjoe,2026-09-23 14:22:01.255710,World News,0.4,False
+49772961,Spain orders blocks on Archive.today and its mirrors,548,431,latein,2026-09-23 14:22:01.977284,Technology,0.785063752276867,True
+49804831,German court rules Meta liable for scam ads on Facebook and Instagram,49,8,buzer,2026-09-23 14:22:06.095549,Entertainment,0.16,False
+49809670,Anyone using a Wispr Flow alternative that is non-cloud?,14,13,itsjeremiahs,2026-09-23 14:22:06.743312,Technology,0.8666666666666667,False
+49787142,Python Workers are now generally available,266,42,torutofu,2026-09-23 14:22:07.359663,Technology,0.15730337078651685,True
+49791939,NASA’s Mars Sample Return mission is dead,447,383,Muhammad523,2026-09-23 14:22:08.002268,Science,0.8549107142857143,True
+49797139,Apple Music to open concert venue in Battersea Power Station,66,97,dabinat,2026-09-23 14:22:09.348280,Entertainment,1.4477611940298507,False
+49791647,Frontier AI on Your Own Hardware,179,102,pretext,2026-09-23 14:22:10.069094,World News,0.5666666666666667,True
+49778022,Resident Evil 4 (GameCube) – complete byte-identical decompilation to C/C++,137,99,metrofun,2026-09-23 14:22:12.771250,Sports,0.717391304347826,False
+49775082,The Millennium Problems for Biology,162,119,artninja1988,2026-09-23 14:22:15.492647,Science,0.7300613496932515,True
+49776523,Show HN: A competition for small neural networks that play strategy games,111,40,codetiger,2026-09-23 14:22:18.222899,Sports,0.35714285714285715,False
+49789356,Show HN: Foremerge – Catch intent conflicts between parallel coding agents,45,17,naw103,2026-09-23 14:22:22.969006,Sports,0.3695652173913043,False
+49786419,Show HN: Lossless-memory – a personal AI memory that never summarizes,66,29,aru-labs,2026-09-23 14:22:30.167898,Entertainment,0.43283582089552236,False
+49777539,Show HN: Radius – A Meetup.com Alternative,163,81,radius89,2026-09-23 14:22:33.618966,Entertainment,0.49390243902439024,True
+49798800,How software gets permission today,9,0,infomiho,2026-09-23 14:22:42.572768,World News,0.0,False
+49781693,Why Backprop Goes Backward (2018),69,10,andsoitis,2026-09-23 14:22:50.106047,World News,0.14285714285714285,False
+49778670,Software sandboxing: The basics (2025),115,24,mococa,2026-09-23 14:22:53.702885,World News,0.20689655172413793,False
+49755378,A custom virtual machine for the Stars 4X game,109,38,ibobev,2026-09-23 14:23:00.958517,Sports,0.34545454545454546,False
+49802005,Show HN: Hack – my Hacker News mobile client now lets you block AI posts,7,3,busymom0,2026-09-23 14:23:01.680977,Entertainment,0.375,False
+49803684,Study Sessions Should Be Short and Frequent as Opposed to Long and Sparse,18,2,gmays,2026-09-23 14:23:03.109855,Science,0.10526315789473684,False
+49786210,The End Of Upward Mobility – AI is coming for the meritocracy,63,44,meep_meep_meep,2026-09-23 14:23:05.730773,World News,0.6875,False
+49799083,"9 Ads per Minute: FIFA Cup 26 – ""the price of the beautiful game""",175,214,KellyCriterion,2026-09-23 14:23:06.486098,Sports,1.2159090909090908,True
+49789066,"Show HN: Vellum, the best diagram editor you'll ever use",23,15,JoshJamesAnthon,2026-09-23 14:23:11.600532,Entertainment,0.625,False
+49765354,Show HN: Sigabrt.dev – cronjob monitor with an SSH TUI,81,35,4815162342,2026-09-23 14:23:17.019276,Entertainment,0.4268292682926829,False
+49746626,How SpaceX streamlined the Raptor engine,246,125,JumpCrisscross,2026-09-23 14:23:21.042055,Science,0.5060728744939271,True
+49780849,Show HN: jevals – replacing LLM judges with typed Jev decisions,46,6,gbayomi,2026-09-23 14:23:21.690798,Entertainment,0.1276595744680851,False
+49766966,Brood War Bench,345,156,benswerd,2026-09-23 14:23:24.512724,World News,0.4508670520231214,True
+49799267,Show HN: Watch all the AI agents on your machine,6,4,turblety,2026-09-23 14:23:25.228567,Entertainment,0.5714285714285714,False
+49777913,Trying the software factory pattern,89,47,gpi,2026-09-23 14:23:26.661166,World News,0.5222222222222223,False
+49806376,Explaining to business people why building software is still hard,59,57,fagnerbrack,2026-09-23 14:23:41.957597,World News,0.95,False
+49767564,Show HN: CUA-S1 – A System One Model for Computer Use,93,10,frabonacci,2026-09-23 14:23:45.603180,Entertainment,0.10638297872340426,False
+49784336,Disney+: New user agreement allows ads before movies in all subscriptions,505,366,DeepLogin,2026-09-23 14:23:53.963985,Entertainment,0.7233201581027668,True
+49740105,"Show HN: Share your AI Setup, Learn from others",250,139,steveybrown,2026-09-23 14:24:00.074176,Entertainment,0.5537848605577689,True
+49791978,Microsoft patents system to freeze games and inject ads during downtimes,43,18,ricobecks,2026-09-23 14:24:02.911715,Sports,0.4090909090909091,False
+49781727,Show HN: Gdocs-me-up: a high-fidelity Google Docs exporter,20,8,behdad,2026-09-23 14:24:05.768708,Entertainment,0.38095238095238093,False
+49749724,Warez: The Infrastructure and Aesthetics of Piracy (2021),220,120,succinct_ideas,2026-09-23 14:24:11.821075,World News,0.5429864253393665,True
+49797105,The secret Cold War bioweapons test that exposed millions in the Bay Area,21,4,bcaulfield,2026-09-23 14:24:12.540306,World News,0.18181818181818182,False
+49748553,Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash,236,92,HenryNdubuaku,2026-09-23 14:24:17.144233,Entertainment,0.3881856540084388,True
+49798451,"Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences",65,118,giuliomagnifico,2026-09-23 14:24:17.781183,Science,1.7878787878787878,False
+49746346,"Show HN: Snapdrop: Instantly share files between devices. No setup, no signup",111,51,Capira,2026-09-23 14:24:21.856269,Entertainment,0.45535714285714285,False
+49763379,NASA-IBM Lunar Foundation open-Source Geospatial AI Model,53,6,noobplus,2026-09-23 14:24:28.550047,Science,0.1111111111111111,False
+49802792,Newborn girls and boys show different attention patterns within hours of birth,15,7,theanonymousone,2026-09-23 14:24:29.229233,Entertainment,0.4375,False
+49752614,"Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",323,219,saimiam,2026-09-23 14:24:37.524016,World News,0.6759259259259259,True
+49748041,"Show HN: Scry, programmable internet search w/ congestion pricing",60,26,Xyra,2026-09-23 14:24:46.544077,Entertainment,0.4262295081967213,False
+49781032,"Show HN: Lightspeed, build real time apps the Laravel way (+asteroids demo)",17,5,jv22222,2026-09-23 14:24:58.209605,Entertainment,0.2777777777777778,False
+49762687,Science Is Open Software,161,74,jegp,2026-09-23 14:25:00.493682,World News,0.4567901234567901,True
+49807794,Kremlin-backed forgery scheme moved $6.9B through global banks,9,1,tagyro,2026-09-23 14:25:02.398664,World News,0.1,False
+49810029,Trump administration attacks Australia optout algorithm law in rare intervention,5,2,jyhrow,2026-09-23 14:25:24.629709,World News,0.3333333333333333,False
+49782439,Show HN: Ambits – agentic grep/rg tool will history tracking,5,1,joshLong145,2026-09-23 14:25:26.838540,Entertainment,0.16666666666666666,False
+49743527,Towards Self-Driving Codebases,121,99,wilhelmklopp,2026-09-23 14:25:29.399296,World News,0.8114754098360656,False
+49785168,Show HN: A GUI for non programmers for Epic's version control system Lore,6,1,m_niedoba,2026-09-23 14:25:33.507725,Entertainment,0.14285714285714285,False
+49757757,Show HN: Jeff – A read-only CLI for semantic code review using Jev,27,5,imalessandro,2026-09-23 14:25:34.792075,Entertainment,0.17857142857142858,False
+49753878,An empirical study of harness design for coding agents,225,59,wek,2026-09-23 14:25:37.482170,Science,0.2610619469026549,True
+49742714,Whoisinspace.com/,137,90,Egg-Man,2026-09-23 14:25:40.030737,Science,0.6521739130434783,False
+49806159,"High-mileage electric cars are more reliable than petrol ones, study finds",13,3,theanonymousone,2026-09-23 14:25:42.610816,Science,0.21428571428571427,False
+49735979,"Jev Ultrafast: A browser agent with a dynamic, indexed action space",92,14,rahimnathwani,2026-09-23 14:25:45.816298,Science,0.15053763440860216,False
+49806558,Trump rejects global entity for AI oversight,12,2,higginsniggins,2026-09-23 14:25:47.274560,World News,0.15384615384615385,False
+49781194,"The addiction of online sports gambling: ""Like crack in the '80s""",28,23,dzonga,2026-09-23 14:25:48.576089,Sports,0.7931034482758621,False
+49770157,Show HN: Frost – frosted-glass Linux icons where file types say what they are,13,1,thissayantan,2026-09-23 14:25:50.568887,Entertainment,0.07142857142857142,False
+49754687,Second Circuit allows government to search electronic devices at the border,130,79,HotGarbage,2026-09-23 14:25:53.131146,World News,0.6030534351145038,False
+49780807,"30 years after Civ2, Eivind IV built his own 4X game (Genesis)",6,3,JohnHammersley,2026-09-23 14:25:57.802160,Sports,0.42857142857142855,False
+49799504,Working-Class Taxpayers Subsidize Billionaires' Climate-Killing Private Jets,6,0,DefNotAiForSure,2026-09-23 14:26:16.916137,World News,0.0,False
+49755337,Build Faster Feedback Loops Using Qualitative User Research,27,3,nadis,2026-09-23 14:26:19.512372,Science,0.10714285714285714,False
+49758028,Border agents can search cellphones without a warrant or reasonable suspicion,234,198,mmh0000,2026-09-23 14:26:21.457750,World News,0.8425531914893617,True
+49786038,Probes into Toronto's shooter-for-hire network thwarted by impenetrable phone,22,7,throw0101a,2026-09-23 14:26:23.670782,World News,0.30434782608695654,False
